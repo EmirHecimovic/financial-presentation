@@ -19,7 +19,7 @@ Technologies Used
 How to Use
 
 1. Clone this repository to your local machine.
-2. Download and open the index.html file in a modern web browser (e.g., Chrome).
+2. Open the index.html file in a modern web browser (e.g., Chrome).
 3. Use the "Previous" and "Next" buttons to navigate through the presentation slides.
 4. Explore the financial data, segment highlights, and visualizations on each slide.
 
