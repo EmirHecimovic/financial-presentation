@@ -19,7 +19,7 @@ Technologies Used
 How to Use
 
 1. Clone this repository to your local machine.
-2. Open the index.html file in a modern web browser.
+2. Open the index.html file in a modern web browser. Or go here and paste the code: https://www.tutorialspoint.com/online_html_editor.php
 3. Use the "Previous" and "Next" buttons to navigate through the presentation slides.
 4. Explore the financial data, segment highlights, and visualizations on each slide.
 
