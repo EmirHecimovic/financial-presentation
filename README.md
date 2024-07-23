@@ -2,26 +2,26 @@ This repository contains an interactive web-based presentation of a TechInnovate
 
 Features
 
-Responsive design that works well on various devices and screen sizes
-Interactive slide navigation with previous and next buttons
-Progress bar indicating the current position in the presentation
-Dynamic charts using Chart.js to visualize quarterly and annual revenue data
-Smooth transitions between slides for a polished user experience
-Dark mode design for reduced eye strain and modern aesthetics
+- Responsive design that works well on various devices and screen sizes
+- Interactive slide navigation with previous and next buttons
+- Progress bar indicating the current position in the presentation
+- Dynamic charts using Chart.js to visualize quarterly and annual revenue data
+- Smooth transitions between slides for a polished user experience
+- Dark mode design for reduced eye strain and modern aesthetics
 
 Technologies Used
 
-HTML5
-CSS3 (with custom animations and transitions)
-JavaScript (ES6+)
-Chart.js for data visualization
+- HTML5
+- CSS3 (with custom animations and transitions)
+- JavaScript (ES6+)
+- Chart.js for data visualization
 
 How to Use
 
-Clone this repository to your local machine.
-Open the index.html file in a modern web browser.
-Use the "Previous" and "Next" buttons to navigate through the presentation slides.
-Explore the financial data, segment highlights, and visualizations on each slide.
+1. Clone this repository to your local machine.
+2. Open the index.html file in a modern web browser.
+3. Use the "Previous" and "Next" buttons to navigate through the presentation slides.
+4. Explore the financial data, segment highlights, and visualizations on each slide.
 
 Customization
 You can easily customize this presentation for your own company's financial results:
@@ -32,5 +32,6 @@ Adjust the styling in the <style> section to match your company's branding and c
 
 Contributing
 Contributions to improve the presentation or add new features are welcome. Please feel free to submit a pull request or open an issue to discuss potential changes.
+
 License
 This project is open-source and available under the MIT License.
