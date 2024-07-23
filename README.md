@@ -1,4 +1,5 @@
-This repository contains an interactive web-based presentation of TechInnovate's financial results for Q4 and Fiscal Year 2024. The presentation is designed to provide a visually appealing and user-friendly way to explore key financial metrics and segment highlights.
+This repository contains an interactive web-based presentation of a TechInnovate's (made-up company) financial results for Q4 and Fiscal Year 2024. The presentation is designed to provide a visually appealing and user-friendly way to explore key financial metrics and segment highlights.
+
 Features
 
 Responsive design that works well on various devices and screen sizes
