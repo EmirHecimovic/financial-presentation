@@ -28,7 +28,7 @@ How to Use
 Customization
 You can easily customize this presentation for your own company's financial results:
 
-Update the content in each "<div class="slide">" element with your own data and text.
+Update the content in each div class="slide" element with your own data and text.
 Modify the chart data in the JavaScript section to reflect your company's financial figures.
 Adjust the styling in the <style> section to match your company's branding and color scheme.
 
